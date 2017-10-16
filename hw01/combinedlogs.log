@@ -1,0 +1,18 @@
+DEBUG,2011-10-21 14:32:00,server starting
+DEBUG,2011-10-21 14:32:01,server started
+DEBUG,2011-10-21 14:32:04,db starting
+DEBUG,2011-10-21 14:32:06,db started
+WARN,2011-10-21 14:32:09,session started
+WARN,2011-10-21 14:32:10,client connected
+INFO,2011-10-21 14:32:14,calling server
+DEBUG,2011-10-21 14:32:15,received string
+INFO,2011-10-21 14:32:18,sent result
+ERROR,2011-10-21 14:32:19,error sending
+ERROR,2011-10-21 14:32:20,error while calling
+DEBUG,2011-10-21 14:32:21,disconnecting
+DEBUG,2011-10-21 14:32:22,client disconnected
+WARN,2011-10-21 14:32:34,client connected
+DEBUG,2011-10-21 14:32:38,received string
+INFO,2011-10-21 14:32:40,sent result
+ERROR,2011-10-21 14:32:42,error sending
+DEBUG,2011-10-21 14:32:44,db disconnected
